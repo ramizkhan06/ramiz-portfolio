@@ -1,6 +1,6 @@
 # ramiz-portfolio
 
-## Hi, I'm Aman Khan! 👋
+# Hi, I'm Ramiz Ur Rahman Khan! 👋
 # ✍️ I’m currently learning BackEnd Technologies like Python, Flask, Django, Django Rest Framework and API endpoints,etc. -🧑‍🎓 I'm a Computer Engineering Graduate and also a META certified Professional BACK-END DEVELOPER.
 # 🧑‍💻 I’m looking to work as Software Developer/Full Stack Web Developer.
 # 🤔 I’m looking for help with Coding experts.
